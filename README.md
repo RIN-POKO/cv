@@ -2,16 +2,16 @@
 
 ## 奥寺凜太郎（Rintaro OKUDERA）
 
+<p>
+<a href="https://github.com/RIN-POKO" target="_blank"><img alt="Github" src="https://img.shields.io/badge/RIN-POKO-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
+<a href="https://zenn.dev/pokopokoomochi" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/pokopokoomochi-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
+</p>
+
 |||
 |--|--|
 | mail | rintaro.okudera+work★gmail.com|
 | 現住所 | 愛知県名古屋市 |
 | 出身地 | 愛知県豊橋市 |
-
-<p>
-<a href="https://github.com/RIN-POKO" target="_blank"><img alt="Github" src="https://img.shields.io/badge/RIN-POKO-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
-<a href="https://zenn.dev/pokopokoomochi" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/pokopokoomochi-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
-</p>
 
 ---
 ---
@@ -196,4 +196,4 @@
 
 ### 執筆活動
 
-- [Zenn] (https://zenn.dev/pokopokoomochi)
+- [Zenn](https://zenn.dev/pokopokoomochi)
