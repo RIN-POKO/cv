@@ -2,6 +2,6 @@
 
 ## 奥寺凜太郎（ Rintaro OKUDERA ）
 
-[Japanese](https://rin-poko.github.io/japanese)
+[日本語の履歴書](https://rin-poko.github.io/cv/japanese)
 
-[English](https://rin-poko.github.io/english)
+[CV in English](https://rin-poko.github.io/cv//english)
