@@ -1,5 +1,7 @@
-# index
+# 職務経歴書 ( CV )
 
-[japanese](https://rin-poko.github.io/japanese)
+## 奥寺凜太郎（ Rintaro OKUDERA ）
 
-[english](https://rin-poko.github.io/english)
+[Japanese](https://rin-poko.github.io/japanese)
+
+[English](https://rin-poko.github.io/english)
