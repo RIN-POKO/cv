@@ -1,6 +1,6 @@
 # 職務経歴書
 
-## 奥寺凜太郎（Rintaro OKUDERA）
+## 奥寺凜太郎
 
 <p>
 <a href="https://github.com/RIN-POKO" target="_blank"><img alt="Github" src="https://img.shields.io/badge/RIN-POKO-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>

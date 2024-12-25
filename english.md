@@ -41,7 +41,6 @@
 
 **Graduate School of Informatics, Department of Computing and Software Systems**  
 **Master of Informatics** *(Expected: Mar. 2025)*  
-
 - **Research:** UAV (Unmanned Aerial Vehicle) software development  
   - Implementation of inter-core communication libraries  
   - Microcontroller communication processing via serial communication  
@@ -55,7 +54,6 @@
 
 **Undergraduate School of Engineering, Department of Advanced Science and Technology**  
 **Bachelor of Engineering** (Apr. 2018 – Mar. 2022)  
-
 - **Research:** Analysis of p-GaN Gate Heterostructure Diodes Using Computer Simulation  
     - (TCAD, Semiconductor Engineering, Python, Scheme)  
 - **Courses**: Mechanical, electrical, electronic, information, and materials engineering  
@@ -70,7 +68,6 @@
 ### Aichi Prefectural Toyohashi Technical High School, Japan  
 
 **Department of Electronics** (Apr. 2015 – Mar. 2018)  
-
 - **Skills**: Circuit design, soldering, and PLC (Programmable Logic Controller)  
 - **Projects**:  
   - Developed an arm robot (control SW/HW)  
@@ -84,7 +81,6 @@
 ### Yukai Engineering Inc., Japan  
 
 **Embedded Software Engineer (Part-time)** (Apr. 2024 – Present)  
-
 - **Development of Visual Programming Environments for Educational Robots**  
   - [Team Size] 2 members  
   - (Node.js, Arduino, Docker)  
@@ -95,7 +91,6 @@
     - (Embedded, C++, Sensor Processing, STM32)  
 
 **Software Engineer (Internship)** (Mar. 2024 – Mar. 2024)  
-
 - **Development and Workshop Planning for Educational Robots**  
 
 ---  
@@ -103,14 +98,11 @@
 ### Nagoya University, Japan  
 
 **Technical Assistant (Part-time)** (Nov. 2022 – Present)  
-
 - **Development of Robot Simulation Environments**  
   - (Robotics, Unity, NATS, ROS, C#, Go)  
 - **Evaluation of Robot Development Methods Using Interactive AI**  
   - (AI, Robotics)  
-
 **Teaching Assistant (Part-time)** (Jun. 2023 – Aug. 2023)  
-
 - **Support for Embedded Software Development Exercises**  
 
 ---  
@@ -118,7 +110,6 @@
 ### Sony Corporation, Japan  
 
 **Embedded Software Engineer (Internship)** (Aug. 2023 – Sep. 2023)  
-
 - **Embedded Software Development for Cameras**  
   - Tilt correction for video footage  
     - (Embedded, Android, C++, Image Processing)  
@@ -128,7 +119,6 @@
 ### Renesas Electronics Corporation, Japan  
 
 **Application Engineer (Internship)** (Sep. 2022 – Sep. 2022)  
-
 - **Improvement, Implementation, and Evaluation of Motor Control Systems for HEV/EV**  
   - (Matlab/Simulink)  
 
@@ -137,7 +127,6 @@
 ### Toyota Motor Corporation, Japan  
 
 **User Experience Engineer (Internship)** (Sep. 2022 – Sep. 2022)  
-
 - **UI/UX Application Development**  
   - [Team Size] 3 members  
   - Development of driving assistance apps  
@@ -148,7 +137,6 @@
 ### Mitsubishi Electric Engineering Company, Japan  
 
 **Embedded Software Engineer (Internship)** (Feb. 2020 – Feb. 2020)  
-
 - **Embedded Software Development for FA Devices**  
   - (Embedded, C)  
 
@@ -157,7 +145,6 @@
 ### JTEKT Corporation  
 
 **Skilled Worker (Internship)** (Feb. 2019 – Mar. 2019)  
-
 - **Assembly and Packaging of Railway Bearings**  
   - (Toyota Production System)  
 
