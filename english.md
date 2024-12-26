@@ -8,8 +8,8 @@
 |||  
 |--|--|  
 | Email | rintaro.okudera+work★gmail.com |  
-| Current Address | Nagoya City, Aichi Prefecture |  
-| Hometown | Toyohashi City, Aichi Prefecture |  
+| Current Address | Nagoya, Aichi, Japan |  
+| Hometown | Toyohashi, Aichi, Japan |  
 
 ---  
 ---  
