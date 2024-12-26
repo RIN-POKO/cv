@@ -1,5 +1,4 @@
 # CV 
 
-[日本語](https://rin-poko.github.io/cv/japanese)
-
-[English](https://rin-poko.github.io/cv//english)
+- 🗾 [CV in Japanese](https://rin-poko.github.io/cv/japanese)
+- 🌎️ [CV in English](https://rin-poko.github.io/cv/english)
