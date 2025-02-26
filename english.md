@@ -4,7 +4,7 @@ title: 【CV】 Rintaro OKUDERA
 description: CV in English
 ---
 
-<!-- # Rintaro OKUDERA -->
+🗾 [日本語はこちら](japanese)
 
 <p>
 <a href="https://github.com/RIN-POKO" target="_blank"><img alt="Github" src="https://img.shields.io/badge/RIN-POKO-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
