@@ -2,12 +2,79 @@
 ---
 
 @import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css2?family=BIZ+UDPGothic:wght@400;700&display=swap');
 
+// モノクロカスタマイズ
+
+// ヘッダーの背景を単色の黒に変更
+.page-header {
+  background-image: linear-gradient(to right, #fff 0%, #fff 35%, #fff 65%, #fff 100%);
+  color: #000;
+  font-family: 'BIZ UDPGothic';
+}
+
+// 見出しの色を統一（完全な黒）
+.main-content h1, .main-content h2, .main-content h3, 
+.main-content h4, .main-content h5, .main-content h6 {
+    color: #000;
+}
+
+// リンクのカラーを黒に統一
+.project-name a, .project-name a:hover, .project-name a:visited {
+    color: inherit;
+}
+
+// 表のスタイルをモノクロ化
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table tr {
+    border-bottom: solid 2px #ddd;
+}
+
+table tr:last-child {
+    border-bottom: none;
+}
+
+table th {
+    position: relative;
+    text-align: left;
+    width: 30%;
+    background-color: #fff;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+// ボタンのモノクロ化
+button, .btn {
+    background-color: #000;
+    color: #fff;
+    &:hover {
+        background-color: #444;
+    }
+}
+
+// 全体の背景色とテキストカラーを完全なモノクロに統一
+body {
+    background-color: #fff;
+    color: #000;
+    font-family: 'BIZ UDPGothic';
+}
+
+// フッターの背景を単色化
+.site-footer {
+    background-color: #fff;
+}
+
+// 既存の `.main-content` のカスタマイズを保持
 .main-content {
-  @include large {
-    max-width: 80%;
-    padding: 2rem 6rem;
-    margin: 0 auto;
-    font-size: 1.1rem;
-  }
+    @include large {
+        max-width: 80%;
+        padding: 2rem 6rem;
+        margin: 0 auto;
+        font-size: 1.1rem;
+    }
 }

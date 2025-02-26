@@ -1,12 +1,15 @@
-# CV
+---
+layout: default
+title: 【CV】 Rintaro OKUDERA
+---
+
+<!-- # Rintaro OKUDERA -->
 
 <p>
 <a href="https://github.com/RIN-POKO" target="_blank"><img alt="Github" src="https://img.shields.io/badge/RIN-POKO-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
 <a href="https://zenn.dev/pokopokoomochi" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/pokopokoomochi-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
 </p>
 
-|||  
-|--|--|  
 | Email | rintaro.okudera+work★gmail.com |  
 | Current Address | Nagoya, Aichi, Japan |  
 | Hometown | Toyohashi, Aichi, Japan |  
@@ -14,7 +17,7 @@
 ---  
 ---  
 
-## Motivation & Interests  
+## **Motivation & Interests**
 
 - Passionate about creating things.   
 - Specialized in software, but eager to engage in mechanical and electrical domains as well.  
@@ -22,7 +25,7 @@
 ---  
 ---  
 
-## Languages  
+## **Languages**  
 
 - **Japanese**  
   - Native  
@@ -33,12 +36,12 @@
 ---  
 ---  
 
-## Education  
+## **Education**  
 
-### Nagoya University, Japan  
+### **Nagoya University, Japan**  
 
 **Graduate School of Informatics, Department of Computing and Software Systems**  
-**Master of Informatics** *(Expected: Mar. 2025)*  
+**Master of Informatics** *(Apr. 2022 – Expected: Mar. 2025)*  
 - **Research:** UAV (Unmanned Aerial Vehicle) software development  
   - Implementation of inter-core communication libraries  
   - Microcontroller communication processing via serial communication  
@@ -48,7 +51,7 @@
 
 ---  
 
-### Toyota Technological Institute, Japan  
+### **Toyota Technological Institute, Japan**  
 
 **Undergraduate School of Engineering, Department of Advanced Science and Technology**  
 **Bachelor of Engineering** (Apr. 2018 – Mar. 2022)  
@@ -63,7 +66,7 @@
 
 ---  
 
-### Aichi Prefectural Toyohashi Technical High School, Japan  
+### **Aichi Prefectural Toyohashi Technical High School, Japan**  
 
 **Department of Electronics** (Apr. 2015 – Mar. 2018)  
 - **Skills**: Circuit design, soldering, and PLC (Programmable Logic Controller)  
@@ -76,7 +79,7 @@
 
 ## Work Experience  
 
-### Yukai Engineering Inc., Japan  
+### **Yukai Engineering Inc., Japan** 
 
 **Embedded Software Engineer (Part-time)** (Apr. 2024 – Present)  
 - **Development of Visual Programming Environments for Educational Robots**  
@@ -93,7 +96,7 @@
 
 ---  
 
-### Nagoya University, Japan  
+### **Nagoya University, Japan**  
 
 **Technical Assistant (Part-time)** (Nov. 2022 – Present)  
 - **Development of Robot Simulation Environments**  
@@ -105,7 +108,7 @@
 
 ---  
 
-### Sony Corporation, Japan  
+### **Sony Corporation, Japan** 
 
 **Embedded Software Engineer (Internship)** (Aug. 2023 – Sep. 2023)  
 - **Embedded Software Development for Cameras**  
@@ -114,7 +117,7 @@
 
 ---  
 
-### Renesas Electronics Corporation, Japan  
+### **Renesas Electronics Corporation, Japan** 
 
 **Application Engineer (Internship)** (Sep. 2022 – Sep. 2022)  
 - **Improvement, Implementation, and Evaluation of Motor Control Systems for HEV/EV**  
@@ -122,7 +125,7 @@
 
 ---  
 
-### Toyota Motor Corporation, Japan  
+### **Toyota Motor Corporation, Japan**  
 
 **User Experience Engineer (Internship)** (Sep. 2022 – Sep. 2022)  
 - **UI/UX Application Development**  
@@ -132,7 +135,7 @@
 
 ---  
 
-### Mitsubishi Electric Engineering Company, Japan  
+### **Mitsubishi Electric Engineering Company, Japan**  
 
 **Embedded Software Engineer (Internship)** (Feb. 2020 – Feb. 2020)  
 - **Embedded Software Development for FA Devices**  
@@ -140,7 +143,7 @@
 
 ---  
 
-### JTEKT Corporation  
+### **JTEKT Corporation**  
 
 **Skilled Worker (Internship)** (Feb. 2019 – Mar. 2019)  
 - **Assembly and Packaging of Railway Bearings**  
@@ -149,17 +152,17 @@
 ---  
 ---  
 
-## Skills  
+## **Skills**  
 
-### Programming Languages  
+### **Programming Languages**  
 
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,go,py)](https://skillicons.dev)  
 
-### Frameworks & Tools  
+### **Frameworks & Tools**  
 
 [![My Skills](https://skillicons.dev/icons?i=docker,flutter,git,ros,unity)](https://skillicons.dev)  
 
-### Certifications  
+### **Certifications**  
 
 - **Applied Information Technology Engineer Exam**  
 - **Fundamental Information Technology Engineer Exam**  
@@ -172,7 +175,7 @@
 ---  
 ---  
 
-## Awards  
+## **Awards**  
 
 ### TOYOTA Scholarship Foundation Scholarship  
 (Jul. 2021)  
@@ -192,16 +195,10 @@
 ---  
 ---  
 
-## Other Activities  
+## **Other Activities (Volunteer Work etc.)**
 
-### Volunteer Work  
+### Toyohashi City, Aichi Prefecture  
 
-#### Toyohashi City, Aichi Prefecture  
+#### Tram Lecturer at Civic University ("Let’s Build and Ride 5-Inch Gauge Railway Vehicles")  
 
-##### Tram Lecturer at Civic University ("Let’s Build and Ride 5-Inch Gauge Railway Vehicles")  
-
-- Guidance on manufacturing powered bogies and vehicle bodies for 5-inch gauge railway models and providing driving experiences  
-
-### Writing  
-
-- [Zenn](https://zenn.dev/pokopokoomochi)  
+- **Teaching and providing hands-on experience in manufacturing powered bogies and vehicle bodies for 5-inch gauge railway vehicles, as well as driving them**  

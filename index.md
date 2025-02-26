@@ -1,4 +1,8 @@
-# 職務経歴書 ( CV )
+---
+layout: default
+title: Rintaro OKUDERA
+---
 
-- 🗾 [CV in Japanese](https://rin-poko.github.io/cv/japanese)
-- 🌎️ [CV in English](https://rin-poko.github.io/cv/english)
+
+- 🗾 [CV in Japanese](japanese)
+- 🌎️ [CV in English](english)

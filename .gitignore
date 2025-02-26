@@ -1,0 +1,12 @@
+# Jekyll ビルドフォルダ
+_site/
+.sass-cache/
+.vs/
+
+# 一時ファイル・ログ・キャッシュ
+*.metadata
+
+# OS 固有の一時ファイル
+.DS_Store
+Thumbs.db
+desktop.ini
