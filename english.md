@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 【CV】 Rintaro OKUDERA
+description: CV in English
 ---
 
 <!-- # Rintaro OKUDERA -->

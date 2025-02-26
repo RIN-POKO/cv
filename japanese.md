@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 【職務経歴書】 奥寺凜太郎
+description: CV in Japanese
 ---
 
 <!-- # 奥寺凜太郎 -->
