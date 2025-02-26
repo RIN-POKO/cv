@@ -1,4 +1,4 @@
-# CV 
+# 【CV】 Rintaro OKUDERA
 
-- 🗾 [CV in Japanese](https://rin-poko.github.io/cv/japanese)
-- 🌎️ [CV in English](https://rin-poko.github.io/cv/english)
+- 🗾 [in Japanese](https://rin-poko.github.io/cv/japanese)
+- 🌎️ [in English](https://rin-poko.github.io/cv/english)
