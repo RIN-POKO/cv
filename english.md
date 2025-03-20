@@ -42,7 +42,7 @@ description: CV in English
 ### **Nagoya University, Japan**  
 
 **Graduate School of Informatics, Department of Computing and Software Systems**  
-**Master of Informatics** *(Apr. 2022 – Expected: Mar. 2025)*  
+**Master of Informatics** (Apr. 2022 – Mar. 2025)
 - **Research:** UAV (Unmanned Aerial Vehicle) software development  
   - Implementation of inter-core communication libraries  
   - Microcontroller communication processing via serial communication  
@@ -82,7 +82,7 @@ description: CV in English
 
 ### **Yukai Engineering Inc., Japan** 
 
-**Embedded Software Engineer (Part-time)** (Apr. 2024 – Present)  
+**Embedded Software Engineer (Part-time)** (Apr. 2024 – Mar. 2025)  
 - **Development of Visual Programming Environments for Educational Robots**  
   - [Team Size] 2 members  
   - (Node.js, Arduino, Docker)  
@@ -99,7 +99,7 @@ description: CV in English
 
 ### **Nagoya University, Japan**  
 
-**Technical Assistant (Part-time)** (Nov. 2022 – Present)  
+**Technical Assistant (Part-time)** (Nov. 2022 – Mar. 2025)  
 - **Development of Robot Simulation Environments**  
   - (Robotics, Unity, NATS, ROS, C#, Go)  
 - **Evaluation of Robot Development Methods Using Interactive AI**  
