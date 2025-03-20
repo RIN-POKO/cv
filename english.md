@@ -178,7 +178,7 @@ description: CV in English
 
 ## **Awards**  
 
-### TOYOTA Scholarship Foundation Scholarship  
+### Scholarship offered by the TOYOTA Scholarship Foundation
 *(Jul. 2021)*  
 
 - For academic excellence, exemplary character, and research potential  
