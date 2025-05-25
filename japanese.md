@@ -12,7 +12,7 @@ description: CV in Japanese
 </p>
 
 | mail | rintaro.okudera+work★gmail.com |
-| 現住所 | 愛知県名古屋市 |
+| 現住所 | 東京都 |
 | 出身地 | 愛知県豊橋市 |
 
 ---
