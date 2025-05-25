@@ -12,7 +12,7 @@ description: CV in English
 </p>
 
 | Email | rintaro.okudera+work★gmail.com |  
-| Current Address | Nagoya, Aichi, Japan |  
+| Current Address | Tokyo, Japan |  
 | Hometown | Toyohashi, Aichi, Japan |  
 
 ---  
