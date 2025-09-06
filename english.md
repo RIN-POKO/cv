@@ -31,11 +31,102 @@ description: CV in English
 - **Japanese**  
   - Native  
 - **English**  
-  - Business Level  
+  - Business level  
     - (TOEIC-IP: 755)  
 
 ---  
 ---  
+
+## Work Experience  
+
+### **1Finity Inc., Japan** 
+
+**Software Engineer** *(Jul. 2025 – Present)*  
+- **Developing “Virtualize” 5G Base Stations (vRAN)**  
+---  
+
+### **Fujitsu Limited, Japan** 
+
+**Software Engineer** *(Jul. 2025 – Present)*  
+- **Seconded to 1Finity Inc.**  
+ 
+**Software Engineer** *(Apr. 2025 – Jul. 2025)*  
+- **New Employee Training**  
+---  
+
+### **Yukai Engineering Inc., Japan** 
+
+**Embedded Software Engineer (Part-time)** *(Apr. 2024 – Mar. 2025)*  
+- **Developed visual programming environments for educational robots**  
+  - [Team] 2 members  
+  - (Node.js, Arduino, Docker)  
+- **Developed firmware of communication robots**  
+  - [Team] 4 members  
+  - Development of holding detection systems  
+  - Brightness control of displays according to ambient light  
+    - (Embedded, C++, Sensor Processing, STM32)  
+
+**Software Engineer (Internship)** *(Mar. 2024 – Mar. 2024)*  
+- **Developed educational robots and planning of workshops**  
+
+---  
+
+### **Nagoya University, Japan**  
+
+**Technical Assistant (Part-time)** *(Nov. 2022 – Mar. 2025)*  
+- **Researched SoS (System of Systems)**  
+- **Built robot simulation environment**  
+  - (Robotics, Unity, NATS, ROS, C#, Go)  
+- **Evaluated robot development methods using interactive AI**  
+  - (AI, Robotics)  
+**Teaching Assistant (Part-time)** *(Jun. 2023 – Aug. 2023)*  
+- **Assisted with embedded systems PBL**  
+
+---  
+
+### **Sony Corporation, Japan** 
+
+**Embedded Software Engineer (Internship)** *(Aug. 2023 – Sep. 2023)*  
+- **Developed embedded software for cameras**  
+  - Tilt correction System  
+    - (Embedded, Android, C++, Image Processing)  
+
+---  
+
+### **Renesas Electronics Corporation, Japan** 
+
+**Application Engineer (Internship)** *(Sep. 2022 – Sep. 2022)*  
+- **Evaluated EV motor control systems**  
+  - (Matlab/Simulink)  
+
+---  
+
+### **Toyota Motor Corporation, Japan**  
+
+**User Experience Engineer (Internship)** *(Sep. 2022 – Sep. 2022)*  
+- **Developed UI/UX application from planning to coding.**  
+  - [Team] 3 members  
+  - Development of driving assistance apps  
+    - (Flutter/Dart, Scrum Development)  
+
+---  
+
+### **Mitsubishi Electric Engineering Company, Japan**  
+
+**Embedded Software Engineer (Internship)** *(Feb. 2020 – Feb. 2020)*  
+- **Developed embedded software for FA equipments**  
+  - (Embedded, C)  
+
+---  
+
+### **JTEKT Corporation**  
+
+**Skilled Worker (Internship)** *(Feb. 2019 – Mar. 2019)*  
+- **Assembled and packed bearings**  
+  - (Toyota Production System)  
+
+---  
+---
 
 ## **Education**  
 
@@ -76,82 +167,7 @@ description: CV in English
   - Built a 5-inch gauge (large-scale train) (control SW/HW)  
 
 ---  
----  
-
-## Work Experience  
-
-### **Yukai Engineering Inc., Japan** 
-
-**Embedded Software Engineer (Part-time)** *(Apr. 2024 – Mar. 2025)*  
-- **Development of Visual Programming Environments for Educational Robots**  
-  - [Team] 2 members  
-  - (Node.js, Arduino, Docker)  
-- **Firmware Development for Communication Robots**  
-  - [Team] 4 members  
-  - Development of holding detection systems  
-  - Brightness control of displays according to ambient light  
-    - (Embedded, C++, Sensor Processing, STM32)  
-
-**Software Engineer (Internship)** *(Mar. 2024 – Mar. 2024)*  
-- **Development and Workshop Planning for Educational Robots**  
-
----  
-
-### **Nagoya University, Japan**  
-
-**Technical Assistant (Part-time)** *(Nov. 2022 – Mar. 2025)*  
-- **Development of Robot Simulation Environments**  
-  - (Robotics, Unity, NATS, ROS, C#, Go)  
-- **Evaluation of Robot Development Methods Using Interactive AI**  
-  - (AI, Robotics)  
-**Teaching Assistant (Part-time)** *(Jun. 2023 – Aug. 2023)*  
-- **Support for Embedded Software Development Exercises**  
-
----  
-
-### **Sony Corporation, Japan** 
-
-**Embedded Software Engineer (Internship)** *(Aug. 2023 – Sep. 2023)*  
-- **Embedded Software Development for Cameras**  
-  - Tilt correction for video footage  
-    - (Embedded, Android, C++, Image Processing)  
-
----  
-
-### **Renesas Electronics Corporation, Japan** 
-
-**Application Engineer (Internship)** *(Sep. 2022 – Sep. 2022)*  
-- **Improvement, Implementation, and Evaluation of Motor Control Systems for HEV/EV**  
-  - (Matlab/Simulink)  
-
----  
-
-### **Toyota Motor Corporation, Japan**  
-
-**User Experience Engineer (Internship)** *(Sep. 2022 – Sep. 2022)*  
-- **UI/UX Application Development**  
-  - [Team] 3 members  
-  - Development of driving assistance apps  
-    - (Flutter/Dart, Scrum Development)  
-
----  
-
-### **Mitsubishi Electric Engineering Company, Japan**  
-
-**Embedded Software Engineer (Internship)** *(Feb. 2020 – Feb. 2020)*  
-- **Embedded Software Development for FA Devices**  
-  - (Embedded, C)  
-
----  
-
-### **JTEKT Corporation**  
-
-**Skilled Worker (Internship)** *(Feb. 2019 – Mar. 2019)*  
-- **Assembly and Packaging of Railway Bearings**  
-  - (Toyota Production System)  
-
----  
----  
+---    
 
 ## **Skills**  
 
@@ -178,17 +194,17 @@ description: CV in English
 
 ## **Awards**  
 
-### Scholarship offered by the TOYOTA Scholarship Foundation
+### **Scholarship offered by the TOYOTA Scholarship Foundation**
 *(Jul. 2021)*  
 
 - For academic excellence, exemplary character, and research potential  
 
-### Junior-Meister Special Award  
+### **Junior-Meister Special Award**  
 *(Feb. 2018)*  
 
 - National recognition for excellence in technical qualifications  
 
-### Central Council for the Promotion of Industrial Education Award  
+### **Central Council for the Promotion of Industrial Education Award**  
 *(Oct. 2018)*  
 
 - Awarded to the most outstanding technical high school graduate  
@@ -198,8 +214,13 @@ description: CV in English
 
 ## **Other Activities (Volunteer Work etc.)**
 
-### Toyohashi City, Aichi Prefecture  
+### **Toyohashi City, Aichi Prefecture**  
 
-#### Tram Lecturer at Civic University ("Let’s Build and Ride 5-Inch Gauge Railway Vehicles")  
+#### **Event Management** 
+*(Jan. 2017 - Feb. 2017)*  
+- Volunteer staff for a garden railway riding event at Toyohashi City Zoo
 
-- **Teaching and providing hands-on experience in manufacturing powered bogies and vehicle bodies for 5-inch gauge railway vehicles, as well as driving them**  
+
+#### **Tram Lecturer at Civic University ("Let’s Build and Ride 5-Inch Gauge Railway Vehicles")**  
+*(Jul. 2021)* 
+- Teaching and providing hands-on experience in manufacturing powered bogies and vehicle bodies for 5-inch gauge railway vehicles, as well as driving them
