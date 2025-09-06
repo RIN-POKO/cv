@@ -43,6 +43,7 @@ description: CV in English
 
 **Software Engineer** *(Jul. 2025 – Present)*  
 - **Developing “Virtualize” 5G Base Stations (vRAN)**  
+
 ---  
 
 ### **Fujitsu Limited, Japan** 
@@ -52,6 +53,7 @@ description: CV in English
  
 **Software Engineer** *(Apr. 2025 – Jul. 2025)*  
 - **New Employee Training**  
+
 ---  
 
 ### **Yukai Engineering Inc., Japan** 
