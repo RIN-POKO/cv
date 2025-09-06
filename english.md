@@ -216,11 +216,11 @@ description: CV in English
 
 ### **Toyohashi City, Aichi Prefecture**  
 
-#### **Event Management** 
+**Event Management** 
 *(Jan. 2017 - Feb. 2017)*  
 - Volunteer staff for a garden railway riding event at Toyohashi City Zoo
 
 
-#### **Tram Lecturer at Civic University ("Let’s Build and Ride 5-Inch Gauge Railway Vehicles")**  
+**Tram Lecturer at Civic University ("Let’s Build and Ride 5-Inch Gauge Railway Vehicles")**  
 *(Jul. 2021)* 
 - Teaching and providing hands-on experience in manufacturing powered bogies and vehicle bodies for 5-inch gauge railway vehicles, as well as driving them
