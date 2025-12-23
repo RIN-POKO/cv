@@ -43,7 +43,8 @@ description: CV in English
 
 **Software Engineer** *(Jul. 2025 – Present)*  
 - **Developing “Virtualize” 5G Base Stations (vRAN)**  
-
+  - [Team] 6 members  
+  - (C, Mobile Network) 
 ---  
 
 ### **Fujitsu Limited, Japan** 
@@ -83,7 +84,7 @@ description: CV in English
   - (AI, Robotics)  
 **Teaching Assistant (Part-time)** *(Jun. 2023 – Aug. 2023)*  
 - **Assisted with embedded systems PBL**  
-
+  - (Embedded, Arduino) 
 ---  
 
 ### **Sony Corporation, Japan** 
@@ -194,6 +195,21 @@ description: CV in English
 ---  
 ---  
 
+## **Publications**  
+
+- Rintaro Okudera et al.Yixiao Li, Yutaka Matsubara, Hiroaki Takada, "A COTS-based Lightweight, Low-power and Versatile Companion Computer for Nano UAVs", Sensors & Transducers, Vol.268, No.1, pp. 37-44, Apr 2025. [[Link]](https://sensorsportal.com/p_3359.html)
+
+---  
+---  
+
+## **Conferences Presentations**  
+
+- Rintaro Okudera, Yixiao Li, Yutaka Matsubara, Hiroaki Takada, "A Lightweight, Low-Power and Versatile Companion Computer for Nano UAVs, Proceedings of the 1st International Conference on Drones and Unmanned Systems (DAUS' 2025), pp. 292-295, Granada, Spain, Feb 2025. [[Link]](https://doi.org/10.13140/RG.2.2.18747.94240)
+
+---  
+---  
+
+
 ## **Awards**  
 
 ### **Scholarship offered by the TOYOTA Scholarship Foundation**
@@ -218,11 +234,9 @@ description: CV in English
 
 ### **Toyohashi City, Aichi Prefecture**  
 
-**Event Management** 
-*(Jan. 2017 - Feb. 2017)*  
+**Event Management** *(Aug. 2025)*  
 - Volunteer staff for a garden railway riding event at Toyohashi City Zoo
 
 
-**Tram Lecturer at Civic University ("Let’s Build and Ride 5-Inch Gauge Railway Vehicles")**  
-*(Jul. 2021)* 
+**Tram Lecturer at Civic University ("Let’s Build and Ride 5-Inch Gauge Railway Vehicles")**  *(Jul. 2021)* 
 - Teaching and providing hands-on experience in manufacturing powered bogies and vehicle bodies for 5-inch gauge railway vehicles, as well as driving them

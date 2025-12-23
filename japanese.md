@@ -215,6 +215,19 @@ description: CV in Japanese
 
 ---
 ---
+## **学術論文**
+
+- Rintaro Okudera et al.Yixiao Li, Yutaka Matsubara, Hiroaki Takada, "A COTS-based Lightweight, Low-power and Versatile Companion Computer for Nano UAVs", Sensors & Transducers, Vol.268, No.1, pp. 37-44, Apr 2025. [[Link]](https://sensorsportal.com/p_3359.html)
+
+---
+---
+
+## **国際会議（査読あり）**
+
+- Rintaro Okudera, Yixiao Li, Yutaka Matsubara, Hiroaki Takada, "A Lightweight, Low-Power and Versatile Companion Computer for Nano UAVs, Proceedings of the 1st International Conference on Drones and Unmanned Systems (DAUS' 2025), pp. 292-295, Granada, Spain, Feb 2025. [[Link]](https://doi.org/10.13140/RG.2.2.18747.94240)
+
+---
+---
 
 ## **受賞歴**
 
