@@ -44,7 +44,8 @@ description: CV in English
 **Software Engineer** *(Jul. 2025 – Present)*  
 - **Developing firmware of “Virtualize” 5G Base Stations (vRAN)**  
   - [Team] 6 members  
-  - (C, Mobile Network) 
+  - improvementing File parser processing speed  (100x)
+    - (C, Mobile Network) 
 ---  
 
 ### **Fujitsu Limited, Japan** 
