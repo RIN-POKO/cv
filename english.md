@@ -42,7 +42,7 @@ description: CV in English
 ### **1Finity Inc., Japan** 
 
 **Software Engineer** *(Jul. 2025 – Present)*  
-- **Developing “Virtualize” 5G Base Stations (vRAN)**  
+- **Developing firmware of “Virtualize” 5G Base Stations (vRAN)**  
   - [Team] 6 members  
   - (C, Mobile Network) 
 ---  
@@ -82,10 +82,15 @@ description: CV in English
   - (Robotics, Unity, NATS, ROS, C#, Go)  
 - **Evaluated robot development methods using interactive AI**  
   - (AI, Robotics)  
+
 **Teaching Assistant (Part-time)** *(Jun. 2023 – Aug. 2023)*  
 - **Assisted with embedded systems PBL**  
   - (Embedded, Arduino) 
+
 ---  
+---
+
+## **Internship Experience**  
 
 ### **Sony Corporation, Japan** 
 
@@ -129,7 +134,7 @@ description: CV in English
   - (Toyota Production System)  
 
 ---  
----
+---    
 
 ## **Education**  
 
@@ -238,5 +243,5 @@ description: CV in English
 - Volunteer staff for a garden railway riding event at Toyohashi City Zoo
 
 
-**Tram Lecturer at Civic University ("Let’s Build and Ride 5-Inch Gauge Railway Vehicles")**  *(Jul. 2021)* 
+**Workshop Instructor ("Let’s Build and Ride 5-Inch Gauge Railway Vehicles")**  *(Jul. 2021)* 
 - Teaching and providing hands-on experience in manufacturing powered bogies and vehicle bodies for 5-inch gauge railway vehicles, as well as driving them
