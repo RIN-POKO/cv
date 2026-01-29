@@ -186,9 +186,9 @@ description: CV in Japanese
 - **自律移動ロボットのアプリケーション開発**
     - （ROS1, LiDAR, SLAM）
 - **組込みシステムの研究及び学習に注力**  
-  <details open markdown="1">
-  <summary>主要履修内容(クリックしてください)</summary>
-  
+  <details markdown="1">
+  <summary>主要履修内容</summary>
+    
   - 【機械系】
     - 航空宇宙制御
   - 【電気・電子系】
@@ -209,7 +209,7 @@ description: CV in Japanese
     - 量子コンピュータ
   - 【その他】
     - 超学際移動イノベーション学
-</details>
+  </details>
 
 ---
 
@@ -220,9 +220,9 @@ description: CV in Japanese
 - **【卒業研究】コンピュータシミュレーションを使用した p-GaN ゲートヘテロ構造ダイオードの特性解析**
     - （TCAD, 半導体工学, Python, Scheme）
 - **機械工学, 電気/電子, 情報工学, 材料科学を横断的に学習**
-  <details open markdown="1">
-  <summary>主要履修内容(クリックしてください)</summary>
-  
+  <details markdown="1">
+  <summary>主要履修内容</summary>
+    
   -  【工学基礎】
      - 線形代数
      - 微分積分学
@@ -262,7 +262,7 @@ description: CV in Japanese
    - 【物理・化学系】
      - 光学
      - 量子力学
-</details>
+  </details>
 
 - **開発経験**
   - 落ちものパズルゲーム
