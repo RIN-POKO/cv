@@ -4,14 +4,19 @@ title: 【職務経歴書】 奥寺凜太郎
 description: CV in Japanese
 ---
 
+<script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax:{inlineMath:[['\$','\$'],['\\(','\\)']],processEscapes:true},CommonHTML: {matchFontHeight:false}});</script>
+<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
 🌎️ [English is here](english)
 
 <p>
-<a href="https://github.com/RIN-POKO" target="_blank"><img alt="Github" src="https://img.shields.io/badge/RIN-POKO-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
-<a href="https://zenn.dev/pokopokoomochi" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/pokopokoomochi-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
+<a href="https://github.com/RIN-POKO" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
+<a href="https://zenn.dev/pokopokoomochi" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/Zenn-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
+<a href="https://www.wantedly.com/id/rintaro_okudera" target="_blank"><img alt="Wantedly" src="https://img.shields.io/badge/Wantedly-21BDDB.svg?&style=flat-square&logo=Wantedly&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rintaro-okudera/?locale=ja-JP" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0e76a8.svg?&style=flat-square&logo=&logoColor=white" /></a>
 </p>
 
-| mail | rintaro.okudera+work★gmail.com |
+| Email | rintaro.okudera+work★gmail.com |
 | 現住所 | 東京都 |
 | 出身地 | 愛知県豊橋市 |
 
@@ -20,15 +25,14 @@ description: CV in Japanese
 
 ## **プロフィール**
 
-【**概要**】
+### **概要**
 
-- 低レイヤからアプリケーションまで幅広く経験があるSWエンジニアです。
+- 低レイヤからアプリケーションまで幅広く経験があるソフトウェアエンジニアです。
 - ハードウェア（回路・メカ）の知見を活かした、HW・SWの境界を跨ぐ開発が得意です。
 - 現在はvRAN（5G基地局）のファームウェア開発に携わっています。
-- 学生時代は、機械・電気・電子・物理・化学工学を横断的に学習し、大学院では
-組込みシステムを専門にしていました。
+- 学生時代は、機械・電気・電子・物理・化学工学を横断的に学習し、大学院では組込みシステムを専門にしていました。
 
-【**意欲・興味**】
+### **意欲・興味**
 
 - モノづくり全般に興味があります。
   - 特に日常に彩りを与えるようなモノづくりに関心があります。
@@ -81,12 +85,12 @@ description: CV in Japanese
 
 - **教育用ロボットのビジュアルプログラミング環境開発​**
   - 【開発メンバー】 2人
-  - （node-js, Arduino, Docker）​
+  - （Node.js, Arduino, Docker）​
 - **コミュニケーションロボットのファームウェア開発​**
-     - 【開発メンバー】 4人
-     - 抱っこ検知システムの開発​
-     - 環境光に応じたディスプレイの明るさ制御​
-       - （組込み, C, センサー処理, STM32）​
+  - 【開発メンバー】 4人
+  - 抱っこ検知システムの開発​
+  - 環境光に応じたディスプレイの明るさ制御​
+    - （組込み, C, センサー処理, STM32）​
   
 **ソフトウェアエンジニア（インターンシップ）** <br>（2024/03〜2024/03）
 
@@ -136,7 +140,7 @@ description: CV in Japanese
 **アプリケーションエンジニア** <br>（2022/09〜2022/09）
 
 - **HEV/EV向けモータ制御システム改善の検討・実装・評価**
-  - （Matlab/simulink）
+  - （MATLAB/Simulink）
 
 ---
 
@@ -292,9 +296,9 @@ description: CV in Japanese
 ## **保有技術**
 
 ### **言語**
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,go,py,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,go,py)](https://skillicons.dev)
 
-### **フレームワーク・その他**
+### **フレームワーク・ツール**
 [![My Skills](https://skillicons.dev/icons?i=docker,flutter,git,ros,unity)](https://skillicons.dev)
 
 ### **資格・免許**
@@ -344,6 +348,3 @@ description: CV in Japanese
 
 **市民大学トラム講師（乗って楽しむ５インチ鉄道車両を作ろう）**
 - **5インチゲージの鉄道車両の動力台車/車両のボディの製作指導及び運転体験**
-
-<script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax:{inlineMath:[['\$','\$'],['\\(','\\)']],processEscapes:true},CommonHTML: {matchFontHeight:false}});</script>
-<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>

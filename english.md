@@ -1,17 +1,19 @@
-<script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax:{inlineMath:[['\$','\$'],['\\(','\\)']],processEscapes:true},CommonHTML: {matchFontHeight:false}});</script>
-<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
-
 ---
 layout: default
 title: 【CV】 Rintaro OKUDERA
 description: CV in English
 ---
 
+<script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax:{inlineMath:[['\$','\$'],['\\(','\\)']],processEscapes:true},CommonHTML: {matchFontHeight:false}});</script>
+<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
 🗾 [日本語はこちら](japanese)
 
 <p>
-<a href="https://github.com/RIN-POKO" target="_blank"><img alt="Github" src="https://img.shields.io/badge/RIN-POKO-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
-<a href="https://zenn.dev/pokopokoomochi" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/pokopokoomochi-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
+<a href="https://github.com/RIN-POKO" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
+<a href="https://zenn.dev/pokopokoomochi" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/Zenn-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
+<a href="https://www.wantedly.com/id/rintaro_okudera" target="_blank"><img alt="Wantedly" src="https://img.shields.io/badge/Wantedly-21BDDB.svg?&style=flat-square&logo=Wantedly&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rintaro-okudera/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0e76a8.svg?&style=flat-square&logo=&logoColor=white" /></a>
 </p>
 
 | Email | rintaro.okudera+work★gmail.com |  
@@ -47,7 +49,7 @@ description: CV in English
 **Software Engineer** *(Jul. 2025 – Present)*  
 - **Developing firmware of “Virtualize” 5G Base Stations (vRAN)**  
   - [Team] 6 members  
-  - improvementing File parser processing speed  (100x)
+  - Improved file parser processing speed (100x) by optimizing algorithms ($O(n^2) \to O(n)$)
     - (C, Mobile Network) 
 
 ---  
@@ -68,11 +70,11 @@ description: CV in English
 - **Developed visual programming environments for educational robots**  
   - [Team] 2 members  
   - (Node.js, Arduino, Docker)  
-- **Developed firmware of communication robots**  
+- **Developed firmware for communication robots**  
   - [Team] 4 members  
-  - Development of holding detection systems  
-  - Brightness control of displays according to ambient light  
-    - (Embedded, C++, Sensor Processing, STM32)  
+  - Developed a holding detection system  
+  - Implemented display brightness control based on ambient light  
+    - (Embedded, C, Sensor Processing, STM32)  
 
 **Software Engineer (Internship)** *(Mar. 2024 – Mar. 2024)*  
 - **Developed educational robots and planning of workshops**  
@@ -110,7 +112,7 @@ description: CV in English
 
 **Application Engineer (Internship)** *(Sep. 2022 – Sep. 2022)*  
 - **Evaluated EV motor control systems**  
-  - (Matlab/Simulink)  
+  - (MATLAB/Simulink)  
 
 ---  
 
@@ -186,7 +188,7 @@ description: CV in English
 
 ### **Programming Languages**  
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,go,py)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,go,py)](https://skillicons.dev)  
 
 ### **Frameworks & Tools**  
 
@@ -212,7 +214,7 @@ description: CV in English
 ---  
 ---  
 
-## **Conferences Presentations**  
+## **Conference Presentations**  
 
 - Rintaro Okudera, Yixiao Li, Yutaka Matsubara, Hiroaki Takada, "A Lightweight, Low-Power and Versatile Companion Computer for Nano UAVs, Proceedings of the 1st International Conference on Drones and Unmanned Systems (DAUS' 2025), pp. 292-295, Granada, Spain, Feb 2025. [[Link]](https://doi.org/10.13140/RG.2.2.18747.94240)
 
