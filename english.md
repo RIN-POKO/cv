@@ -164,7 +164,17 @@ description: CV in English
   - **Electrical & Electronic Systems**:
     - Power Electronics
   - **Information Systems**:
-    - Information Management, System Programming, Software Engineering, Large-Scale Computation, Foundations of Computation, Computer Architecture, Information Networks, Information Security, Cryptography, Advanced Sensory Information Processing, Intelligent Robotics
+    - Information Management
+    - System Programming
+    - Software Engineering
+    - Large-Scale Computation
+    - Foundations of Computation
+    - Computer Architecture
+    - Information Networks
+    - Information Security
+    - Cryptography
+    - Advanced Sensory Information Processing
+    - Intelligent Robotics
   - **Physics & Chemistry**:
     - Quantum Computing
   - **Other**:
@@ -187,15 +197,43 @@ description: CV in English
   <div markdown="1" style="padding: 16px; border: 1px solid #d0d7de; border-top: none; border-bottom-left-radius: 6px; border-bottom-right-radius: 6px; margin-top: -1px; background-color: #fff;">
 
   - **Engineering Fundamentals**:
-    - Linear Algebra, Calculus, Analysis, Discrete Mathematics, Vector Analysis, Ordinary Differential Equations, Mechanics, Chemistry, Thermodynamics, Electromagnetism
+    - Linear Algebra
+    - Calculus
+    - Analysis
+    - Discrete Mathematics
+    - Vector Analysis
+    - Ordinary Differential Equations
+    - Mechanics
+    - Chemistry
+    - Thermodynamics
+    - Electromagnetism
   - **Mechanical Systems**:
-    - Strength of Materials, Fluid Dynamics, Kinematics, Applied Thermodynamics, Mechanical Drawing, Design Informatics, Numerical Analysis, Control Engineering, Systems Engineering, Mechatronics, Toyota Production System
+    - Strength of Materials
+    - Fluid Dynamics
+    - Kinematics
+    - Applied Thermodynamics
+    - Mechanical Drawing
+    - Design Informatics
+    - Numerical Analysis
+    - Control Engineering
+    - Systems Engineering
+    - Mechatronics
+    - Toyota Production System
   - **Electrical & Electronic Systems**:
-    - Electrical Engineering, Electronic Engineering, Communication Engineering, Semiconductor Engineering
+    - Electrical Engineering
+    - Electronic Engineering
+    - Communication Engineering
+    - Semiconductor Engineering
   - **Information Systems**:
-    - Information Literacy, Algorithms and Data Structures, Digital Logic Circuits, Software Engineering, Computer Architecture, Computer Graphics
+    - Information Literacy
+    - Algorithms and Data Structures
+    - Digital Logic Circuits
+    - Software Engineering
+    - Computer Architecture
+    - Computer Graphics
   - **Physics & Chemistry**:
-    - Optics, Quantum Mechanics
+    - Optics
+    - Quantum Mechanics
   </div>
   </details>
 
