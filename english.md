@@ -157,7 +157,7 @@ description: CV in English
 - **Focused on embedded systems and took the following major courses:**
   <details markdown="1">
   <summary style="cursor: pointer; font-weight: bold; background-color: #f6f8fa; padding: 8px; border-radius: 6px; border: 1px solid #d0d7de;">📚 Major Courses <small style="font-weight: normal; color: #656d76;">(Click to expand)</small></summary>
-  <div style="padding: 16px; border: 1px solid #d0d7de; border-top: none; border-bottom-left-radius: 6px; border-bottom-right-radius: 6px; margin-top: -1px; background-color: #fff;">
+  <div markdown="1" style="padding: 16px; border: 1px solid #d0d7de; border-top: none; border-bottom-left-radius: 6px; border-bottom-right-radius: 6px; margin-top: -1px; background-color: #fff;">
 
   - **Mechanical Systems**:
     - Aerospace Control
@@ -184,7 +184,7 @@ description: CV in English
 - **Studied a wide range of engineering fields, including the following major courses:**
   <details markdown="1">
   <summary style="cursor: pointer; font-weight: bold; background-color: #f6f8fa; padding: 8px; border-radius: 6px; border: 1px solid #d0d7de;">📚 Major Courses <small style="font-weight: normal; color: #656d76;">(Click to expand)</small></summary>
-  <div style="padding: 16px; border: 1px solid #d0d7de; border-top: none; border-bottom-left-radius: 6px; border-bottom-right-radius: 6px; margin-top: -1px; background-color: #fff;">
+  <div markdown="1" style="padding: 16px; border: 1px solid #d0d7de; border-top: none; border-bottom-left-radius: 6px; border-bottom-right-radius: 6px; margin-top: -1px; background-color: #fff;">
 
   - **Engineering Fundamentals**:
     - Linear Algebra, Calculus, Analysis, Discrete Mathematics, Vector Analysis, Ordinary Differential Equations, Mechanics, Chemistry, Thermodynamics, Electromagnetism
