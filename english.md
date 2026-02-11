@@ -154,7 +154,23 @@ description: CV in English
   - Microcontroller communication processing via serial communication  
   - Sensor control (e.g., GPS)  
     - (Embedded Systems, RTOS, Multi-core, C++)  
-- **Focus**: Embedded systems  
+- **Focused on embedded systems and took the following major courses:**
+  <details markdown="1">
+  <summary style="cursor: pointer; font-weight: bold; background-color: #f6f8fa; padding: 8px; border-radius: 6px; border: 1px solid #d0d7de;">📚 Major Courses <small style="font-weight: normal; color: #656d76;">(Click to expand)</small></summary>
+  <div style="padding: 16px; border: 1px solid #d0d7de; border-top: none; border-bottom-left-radius: 6px; border-bottom-right-radius: 6px; margin-top: -1px; background-color: #fff;">
+
+  - **Mechanical Systems**:
+    - Aerospace Control
+  - **Electrical & Electronic Systems**:
+    - Power Electronics
+  - **Information Systems**:
+    - Information Management, System Programming, Software Engineering, Large-Scale Computation, Foundations of Computation, Computer Architecture, Information Networks, Information Security, Cryptography, Advanced Sensory Information Processing, Intelligent Robotics
+  - **Physics & Chemistry**:
+    - Quantum Computing
+  - **Other**:
+    - Transdisciplinary Mobility Innovation
+  </div>
+  </details>
 
 ---  
 
@@ -164,7 +180,24 @@ description: CV in English
 **Bachelor of Engineering** *(Apr. 2018 – Mar. 2022)*  
 - **Research:** Analysis of p-GaN Gate Heterostructure Diodes Using Computer Simulation  
     - (TCAD, Semiconductor Engineering, Python, Scheme)  
-- **Courses**: Mechanical, electrical, electronic, information, and materials engineering  
+- **Studied a wide range of engineering fields, including the following major courses:**
+  <details markdown="1">
+  <summary style="cursor: pointer; font-weight: bold; background-color: #f6f8fa; padding: 8px; border-radius: 6px; border: 1px solid #d0d7de;">📚 Major Courses <small style="font-weight: normal; color: #656d76;">(Click to expand)</small></summary>
+  <div style="padding: 16px; border: 1px solid #d0d7de; border-top: none; border-bottom-left-radius: 6px; border-bottom-right-radius: 6px; margin-top: -1px; background-color: #fff;">
+
+  - **Engineering Fundamentals**:
+    - Linear Algebra, Calculus, Analysis, Discrete Mathematics, Vector Analysis, Ordinary Differential Equations, Mechanics, Chemistry, Thermodynamics, Electromagnetism
+  - **Mechanical Systems**:
+    - Strength of Materials, Fluid Dynamics, Kinematics, Applied Thermodynamics, Mechanical Drawing, Design Informatics, Numerical Analysis, Control Engineering, Systems Engineering, Mechatronics, Toyota Production System
+  - **Electrical & Electronic Systems**:
+    - Electrical Engineering, Electronic Engineering, Communication Engineering, Semiconductor Engineering
+  - **Information Systems**:
+    - Information Literacy, Algorithms and Data Structures, Digital Logic Circuits, Software Engineering, Computer Architecture, Computer Graphics
+  - **Physics & Chemistry**:
+    - Optics, Quantum Mechanics
+  </div>
+  </details>
+
 - **Development Experience**  
   - Falling block puzzle game  
   - Board game AI using reinforcement learning  
