@@ -170,6 +170,7 @@ description: CV in English
   - **Other**:
     - Transdisciplinary Mobility Innovation
   </div>
+  
   </details>
 
 ---  

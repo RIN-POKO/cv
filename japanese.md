@@ -213,6 +213,7 @@ description: CV in Japanese
   - 【その他】
     - 超学際移動イノベーション学
   </div>
+
   </details>
 
 ---
@@ -268,6 +269,7 @@ description: CV in Japanese
      - 光学
      - 量子力学
   </div>
+  
   </details>
 
 - **開発経験**
